@@ -1,0 +1,41 @@
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\CSE\Desktop\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study\Repos\id 71\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study\Repos\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study\Repos\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study\Repos\id 71\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\bin\Debug\WindowsFormsApp1.exe.config
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\bin\Debug\WindowsFormsApp1.exe
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\bin\Debug\WindowsFormsApp1.pdb
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.exe
+E:\SWE Study\Second Semester\Labs\OOP Lab\Lab 2 Task\1. InfoList\obj\Debug\WindowsFormsApp1.pdb
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.exe
+E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.pdb
