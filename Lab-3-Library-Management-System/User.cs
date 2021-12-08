@@ -8,15 +8,29 @@ namespace Library_Management_System
 {
     internal class User
     {
-        public string UserID;
-        public string UserName;
-        public string Address;
-        public string BookID;
-        public string BookName;
-        public string GetInfo()
+        public int id;
+        public string name;
+        public string address;
+        public List<int> books = new List<int>();
+        public User()
         {
-            string ReturnValue = UserID + "\t" + UserName + "\t" + BookID + "\t" + BookName;
-            return ReturnValue;
+        }
+
+        public User(int id, string name, string address)
+        {
+            this.id = id;
+            this.name = name;
+            this.address = address;
+        }
+
+        public void addBook(int id)
+        {
+            books.Add(id);
+        }
+
+        public void returnBook(int id)
+        {
+            books.Remove(id);
         }
     }
 }

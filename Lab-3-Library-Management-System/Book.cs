@@ -8,11 +8,25 @@ namespace Library_Management_System
 {
     internal class Book
     {
-        public string BookID;
-        public string BookName;
-        public string BookAuthor;
-        public string Publisher;
-        public int Quantity;
-        
+        public int id;
+        public string title;
+        public string author;
+        public string publisher;
+        public int quantity;
+
+        public Book(int id,string title,string author,string publisher,int quantity)
+        {
+            this.id = id;
+            this.title = title;
+            this.author = author;
+            this.publisher = publisher;
+            this.quantity = quantity;
+        }
+
+
+        public string history()
+        {
+            return this.id.ToString()+"  "+ this.title;
+        }
     }
 }
