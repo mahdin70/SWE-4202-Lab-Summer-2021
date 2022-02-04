@@ -17,21 +17,6 @@ namespace Univesity_Grade_Calculator
             InitializeComponent();
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void tb_Name_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int inatt, finalatt, mid, final, total, percentage, quizsum = 0;

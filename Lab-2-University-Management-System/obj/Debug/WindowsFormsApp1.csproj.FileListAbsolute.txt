@@ -39,3 +39,11 @@ E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\o
 E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.exe
 E:\SWE Study\2nd Semester\Labs\OOP Lab\Lab 2 Task\University Management System\obj\Debug\WindowsFormsApp1.pdb
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.exe
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-2-University-Management-System\obj\Debug\WindowsFormsApp1.pdb

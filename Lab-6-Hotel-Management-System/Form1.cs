@@ -54,7 +54,6 @@ namespace Lab_6_Hotel_Management_System
             HMS.Bookinglist.Add(temp); 
             MessageBox.Show("Booking Completed.\nBooking ID : "+ temp.getID());          
         }
-
         private void RoomDetailsOnClick(object sender, EventArgs e)
         {
             lb_Room_Details.Items.Clear();
@@ -62,9 +61,7 @@ namespace Lab_6_Hotel_Management_System
             {
                 lb_Room_Details.Items.Add(i.getInfo());
             }
-
         }
-
         private void BookingDetailsOnClick(object sender, EventArgs e)
         {
             foreach (Booking i in HMS.Bookinglist)
@@ -78,8 +75,7 @@ namespace Lab_6_Hotel_Management_System
                       tb_RD_Name.Text = i.getName();
                       tb_RD_Address.Text = i.getAddress();
                       tb_RD_RoomNo.Text = i.getRoomNo().ToString();
-                      tb_RD_Amount.Text = i.getCost().ToString();
-                                          
+                      tb_RD_Amount.Text = i.getCost().ToString();                                         
                 }
             }
         }

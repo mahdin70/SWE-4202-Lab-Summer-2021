@@ -9,3 +9,14 @@ F:\C#\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.csproj.Gen
 F:\C#\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.csproj.CoreCompileInputs.cache
 F:\C#\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.exe
 F:\C#\Univesity Grade Calculator\obj\Debug\Univesity Grade Calculator.pdb
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\bin\Debug\Univesity Grade Calculator.exe.config
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\bin\Debug\Univesity Grade Calculator.exe
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\bin\Debug\Univesity Grade Calculator.pdb
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.csproj.AssemblyReference.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.csproj.SuggestedBindingRedirects.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity_Grade_Calculator.Form1.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity_Grade_Calculator.Properties.Resources.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.csproj.GenerateResource.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.csproj.CoreCompileInputs.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.exe
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-1-Grade-Calculator\obj\Debug\Univesity Grade Calculator.pdb
