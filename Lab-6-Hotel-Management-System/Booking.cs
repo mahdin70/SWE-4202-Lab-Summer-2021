@@ -51,7 +51,7 @@ namespace Lab_6_Hotel_Management_System
                 if (i.getID() == Convert.ToInt32(ID))
                 {
                    this.user = i;
-                    break;
+                   break;
                 }
             }
             this.Room = Room;

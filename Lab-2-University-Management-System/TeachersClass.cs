@@ -9,51 +9,55 @@ namespace WindowsFormsApp1
     internal class TeachersClass
     {
         private string TeachersID;
-        public void setID(string TeachersID)
-        {
-            this.TeachersID = TeachersID;
-        }
         public string getID(string TeachersID)
         {
             return TeachersID;
         }
-        private string TeachersName;
-        public void setname(string TeachersName)
+        public void setID(string TeachersID)
         {
-            this.TeachersName = TeachersName;
+            this.TeachersID = TeachersID;
         }
+
+        private string TeachersName;
         public string getName(string TeachersName)
         {
             return TeachersName;
         }
-        private string TeachersDepart;
-        public void setdept(string TeachersDepart)
+        public void setname(string TeachersName)
         {
-            this.TeachersDepart = TeachersDepart;
+            this.TeachersName = TeachersName;
         }
+
+        private string TeachersDepart;
         public string getdept(string TeachersDepart)
         {
             return TeachersDepart;
         }
-        private string TeachersDesignation;
-        public void setdes(string TeachersDesignation)
+        public void setdept(string TeachersDepart)
         {
-            this.TeachersDesignation = TeachersDesignation;
+            this.TeachersDepart = TeachersDepart;
         }
+
+        private string TeachersDesignation;
         public string getdes(string TeachersDesignation)
         {
             return TeachersDesignation;
         }
-        private string TeachersSalary;
-        public void setsalary (string TeachersSalary)
+        public void setdes(string TeachersDesignation)
         {
-            this.TeachersSalary = TeachersSalary;
+            this.TeachersDesignation = TeachersDesignation;
         }
+
+        private string TeachersSalary;
         public string getsalary(string TeachersSalary)
         {
             return TeachersSalary;
         }
-
+        public void setsalary (string TeachersSalary)
+        {
+            this.TeachersSalary = TeachersSalary;
+        }
+       
 
         public string getInfo()
         {

@@ -18,8 +18,9 @@ namespace Lab_6_Hotel_Management_System
         public string getAddress() { return this.Address; }
         public string getContact() { return this.Contact; }
 
-        public User() { }
-
+        public User() 
+        { 
+        }
         public User(string UserID, string Name, string Address,string Contact)
         {
             this.ID = Convert.ToInt32(ID);

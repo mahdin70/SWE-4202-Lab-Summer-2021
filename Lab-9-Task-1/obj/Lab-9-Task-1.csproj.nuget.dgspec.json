@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SWE Study\\2nd Semester\\Labs\\OOP Lab\\SWE-4202-Lab-Summer\\Lab-9-Task-1\\Lab-9-Task-1.csproj": {}
+  },
+  "projects": {
+    "E:\\SWE Study\\2nd Semester\\Labs\\OOP Lab\\SWE-4202-Lab-Summer\\Lab-9-Task-1\\Lab-9-Task-1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SWE Study\\2nd Semester\\Labs\\OOP Lab\\SWE-4202-Lab-Summer\\Lab-9-Task-1\\Lab-9-Task-1.csproj",
+        "projectName": "Lab-9-Task-1",
+        "projectPath": "E:\\SWE Study\\2nd Semester\\Labs\\OOP Lab\\SWE-4202-Lab-Summer\\Lab-9-Task-1\\Lab-9-Task-1.csproj",
+        "packagesPath": "C:\\Users\\MUKIT\\.nuget\\packages\\",
+        "outputPath": "E:\\SWE Study\\2nd Semester\\Labs\\OOP Lab\\SWE-4202-Lab-Summer\\Lab-9-Task-1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MUKIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -104,7 +104,7 @@ namespace Lab_4
             {
                 if (i.getname() == tb_Avail.Text)
                 {
-                    MessageBox.Show(i.getcount().ToString() + i.getname() + " rooms are available.");
+                    MessageBox.Show(i.getcount().ToString() + " " + i.getname() + " rooms are available.");
                     return;
                 }
             }
@@ -112,7 +112,7 @@ namespace Lab_4
             {
                 if (i.getname() == tb_Avail.Text)
                 {
-                    MessageBox.Show(i.getcount().ToString() + i.getname() + " rooms are available.");
+                    MessageBox.Show(i.getcount().ToString() + " " + i.getname() + " rooms are available.");
                     return;
                 }
             }

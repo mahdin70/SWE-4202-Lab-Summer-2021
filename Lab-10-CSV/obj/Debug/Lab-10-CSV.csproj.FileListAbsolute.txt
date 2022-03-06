@@ -1,0 +1,6 @@
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab-10-CSV.csproj.AssemblyReference.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab-10-CSV.csproj.SuggestedBindingRedirects.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab_10_CSV.EmployeeForm.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab_10_CSV.Properties.Resources.resources
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab-10-CSV.csproj.GenerateResource.cache
+E:\SWE Study\2nd Semester\Labs\OOP Lab\SWE-4202-Lab-Summer\Lab-10-CSV\obj\Debug\Lab-10-CSV.csproj.CoreCompileInputs.cache
