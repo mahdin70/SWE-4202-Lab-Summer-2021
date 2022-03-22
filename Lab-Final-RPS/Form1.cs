@@ -35,7 +35,10 @@ namespace Lab_Final_RPS
             {
                 listBox1.Items.Add(temp.getInfo());
             }
-        
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
             foreach (Grades temp in Lists.GradesList)
             {
                 if (temp.getID() == tb_ID.Text)
@@ -48,6 +51,9 @@ namespace Lab_Final_RPS
                     tb_Mid.Text = temp.getMid();
                     tb_Final.Text = temp.getFinal();
                     tb_Viva.Text = temp.getViva();
+                    tb_Total.Text = temp.getTotal();
+                    tb_Percentage.Text = temp.getPercentage();
+                    tb_Grades.Text = temp.getGrades();
                 }
             }
         }

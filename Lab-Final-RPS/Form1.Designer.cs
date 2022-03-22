@@ -62,7 +62,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(397, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(366, 29);
+            this.label1.Size = new System.Drawing.Size(289, 24);
             this.label1.TabIndex = 0;
             this.label1.Text = "IUT Result Processing System";
             // 
@@ -74,6 +74,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Search By ID";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // tb_ID
             // 
@@ -88,7 +89,7 @@
             this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(34, 80);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(897, 500);
+            this.listBox1.Size = new System.Drawing.Size(879, 500);
             this.listBox1.TabIndex = 4;
             // 
             // label2
@@ -97,7 +98,7 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(963, 154);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 18);
+            this.label2.Size = new System.Drawing.Size(78, 15);
             this.label2.TabIndex = 5;
             this.label2.Text = "Attendance";
             // 
@@ -107,7 +108,7 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(963, 237);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 18);
+            this.label3.Size = new System.Drawing.Size(44, 15);
             this.label3.TabIndex = 6;
             this.label3.Text = "Quiz2";
             // 
@@ -117,7 +118,7 @@
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(963, 195);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(52, 18);
+            this.label4.Size = new System.Drawing.Size(44, 15);
             this.label4.TabIndex = 7;
             this.label4.Text = "Quiz1";
             // 
@@ -127,7 +128,7 @@
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(963, 280);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 18);
+            this.label5.Size = new System.Drawing.Size(44, 15);
             this.label5.TabIndex = 8;
             this.label5.Text = "Quiz3";
             // 
@@ -137,7 +138,7 @@
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(963, 322);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(52, 18);
+            this.label6.Size = new System.Drawing.Size(44, 15);
             this.label6.TabIndex = 9;
             this.label6.Text = "Quiz4";
             // 
@@ -147,7 +148,7 @@
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(963, 363);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(35, 18);
+            this.label7.Size = new System.Drawing.Size(31, 15);
             this.label7.TabIndex = 10;
             this.label7.Text = "Mid";
             // 
@@ -157,7 +158,7 @@
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(963, 403);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(44, 18);
+            this.label8.Size = new System.Drawing.Size(39, 15);
             this.label8.TabIndex = 11;
             this.label8.Text = "Final";
             // 
@@ -167,7 +168,7 @@
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(963, 443);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(39, 18);
+            this.label9.Size = new System.Drawing.Size(33, 15);
             this.label9.TabIndex = 12;
             this.label9.Text = "Viva";
             // 
@@ -177,7 +178,7 @@
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(963, 484);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(46, 18);
+            this.label10.Size = new System.Drawing.Size(39, 15);
             this.label10.TabIndex = 13;
             this.label10.Text = "Total";
             // 
@@ -187,7 +188,7 @@
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(963, 521);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(93, 18);
+            this.label11.Size = new System.Drawing.Size(80, 15);
             this.label11.TabIndex = 14;
             this.label11.Text = "Percentage";
             // 
@@ -197,7 +198,7 @@
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(963, 556);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(63, 18);
+            this.label12.Size = new System.Drawing.Size(53, 15);
             this.label12.TabIndex = 15;
             this.label12.Text = "Grades";
             // 
